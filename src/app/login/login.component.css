@@ -1,0 +1,22 @@
+.error-message {
+    color: red;
+  }
+  .login{
+    color: white;
+    border:5px rgb(255, 255, 255) solid;
+    height: 200px;
+    width: 200px;
+    margin-top: 200px;
+    margin-left: 550px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  input{
+    margin-bottom: 10px;
+    
+    
+  }
+  input,button{
+    border-radius: 5px;
+  }

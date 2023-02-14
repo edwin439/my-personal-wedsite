@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(21, 70, 148);
+    height: 50px;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 2px black solid;
+  }
+  
+   main {
+    max-width: 1280px;
+    margin: auto;
+  }
+  a{
+    color: white;
+  }
+  
+ 
+
+   ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  ul li {
+    list-style: none;
+    margin-right: 15px;
+  }
